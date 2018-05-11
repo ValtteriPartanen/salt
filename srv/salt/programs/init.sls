@@ -5,3 +5,4 @@ install_programs:
       - vim
       - tree
       - nmap
+      - git
