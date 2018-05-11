@@ -6,3 +6,5 @@ install_programs:
       - tree
       - nmap
       - git
+      - gimp
+      - vlc
