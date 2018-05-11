@@ -6,3 +6,7 @@ Joten loppujen lopuksi päädyin tekemään jonkinlaisen moduulin, joka asentaa 
 
 Tämä moduuli asentaa muunmuassa nginx:n, ssh:n, sysstatin ja konfiguroi sen, tekee palomuurille tarvittavat reijät
 Ja asentaa läjäpäin hyödyllisiä ohjelmia kuten ack-grep, nmap, git, vim, vlc ja kuvanmuokkaus ohjelman gimpin.
+
+Moduulin käyttö: kloonaa moduuli itsellesi, mene salt kansion sisään ja anna komento
+
+	$ sudo bash install_module.sh
